@@ -2,5 +2,12 @@
   "name": "Deutsch",
   "prefix": "§eEazu§6MC §8» §r",
   "locale": "de_DE",
-  "contributors": ["NeturCrafter"]
+  "contributors": ["NeturCrafter"],
+  
+  "values": {
+    "ui.title.language": "§aSprachenSystem",
+    "ui.description.language": "Wähle eine Sprache aus.\nDeine derzeitige Sprache ist: {0}",
+    
+    "message.newLanguage": "§aDeine Sprache wurde erfolgreich auf §3{0}§a gesetzt."
+  }
 }
