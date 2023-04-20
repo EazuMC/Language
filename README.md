@@ -1,2 +1,2 @@
-# LanguageAPI
-The LanguageAPI for the EazuMC network.
+# Language
+The language files for the EazuMC network.
