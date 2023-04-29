@@ -5,6 +5,12 @@
   "contributors": ["NeturCrafter"],
   
   "values": {
+    "raw.gameTime": "Spielzeit",
+    "raw.kills": "Kills",
+    "raw.deaths": "Tode",
+    "raw.kdr": "kdr",
+    "raw.bowAccuracy": "Bogen Genauigkeit",
+    
     "%time.sunrise": "Sonnenaufgang",
     "%time.day": "Tag",
     "%time.noon": "Mittag",
