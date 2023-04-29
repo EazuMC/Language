@@ -5,6 +5,13 @@
   "contributors": ["NeturCrafter"],
   
   "values": {
+    "%time.sunrise": "Sonnenaufgang",
+    "%time.day": "Tag",
+    "%time.noon": "Mittag",
+    "%time.sunset": "Sonnenuntergang",
+    "%time.night": "Nacht",
+    "%time.midnight": "Mitternacht",
+    
     "ui.title.language": "§aSprachenSystem",
     "ui.description.language": "Wähle eine Sprache aus.\nDeine derzeitige Sprache ist: {0}",
     
