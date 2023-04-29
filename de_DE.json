@@ -10,17 +10,29 @@
     "raw.deaths": "Tode",
     "raw.kdr": "kdr",
     "raw.bowAccuracy": "Bogen Genauigkeit",
+    "raw.winChance": "Gewinnchance",
+    "raw.killstreak": "Killserie",
+    "raw.defeats": "Niederlagen",
+    "raw.ping": "Ping",
+    "raw.os": "Betriebssystem",
+    "raw.control": "Kontrolle",
+    "raw.coins": "Münzen",
+    "raw.onlineTime": "Onlinezeit",
     
-    "%time.sunrise": "Sonnenaufgang",
-    "%time.day": "Tag",
-    "%time.noon": "Mittag",
-    "%time.sunset": "Sonnenuntergang",
-    "%time.night": "Nacht",
-    "%time.midnight": "Mitternacht",
+    "time.sunrise": "Sonnenaufgang",
+    "time.day": "Tag",
+    "time.noon": "Mittag",
+    "time.sunset": "Sonnenuntergang",
+    "time.night": "Nacht",
+    "time.midnight": "Mitternacht",
     
     "ui.title.language": "§aSprachenSystem",
     "ui.description.language": "Wähle eine Sprache aus.\nDeine derzeitige Sprache ist: {0}",
     
-    "message.newLanguage": "§aDeine Sprache wurde erfolgreich auf §3{0}§a gesetzt."
+    "message.skippedStage": "§aDu hast erfolgreich eine Stufe übersprungen.",
+    "message.newLanguage": "§aDeine Sprache wurde erfolgreich auf §3{0}§a gesetzt.",
+    
+    "item.name.setup": "§4Setup",
+    "item.name.stats": "§aStatistiken"
   }
 }
