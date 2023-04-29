@@ -31,6 +31,8 @@
     
     "message.skippedStage": "§aDu hast erfolgreich eine Stufe übersprungen.",
     "message.newLanguage": "§aDeine Sprache wurde erfolgreich auf §3{0}§a gesetzt.",
+    "message.nickedSuccessfully": "§aDu hast erfolgreich deinen Nicknamen zu §3{0} §ageändert.",
+    "message.unnickedSuccessfully": "§aDu hast erfolgreich deinen Nicknamen zurückgesetzt.",
     
     "item.name.setup": "§4Setup",
     "item.name.stats": "§aStatistiken"
