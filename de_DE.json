@@ -18,6 +18,9 @@
     "raw.os": "Betriebssystem",
     "raw.control": "Kontrolle",
     "raw.coins": "Münzen",
+    "raw.name": "Name",
+    "raw.online": "Online",
+    "raw.rank": "Rang",
     "raw.onlineTime": "Onlinezeit",
     
     "time.sunrise": "Sonnenaufgang",
