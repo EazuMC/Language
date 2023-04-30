@@ -38,6 +38,8 @@
     "message.nickedSuccessfully": "§aDu hast erfolgreich deinen Nicknamen zu §3{0} §ageändert.",
     "message.unnickedSuccessfully": "§aDu hast erfolgreich deinen Nicknamen zurückgesetzt.",
     
+    "popup.waitingForEnemy": "§cWarten auf Gegner{0}",
+    
     "item.name.setup": "§4Setup",
     "item.name.stats": "§aStatistiken"
   }
