@@ -41,6 +41,11 @@
     "popup.waitingForEnemy": "§cWarten auf Gegner{0}",
     
     "item.name.setup": "§4Setup",
-    "item.name.stats": "§aStatistiken"
+    "item.name.stats": "§aStatistiken",
+    
+    "broadcasts": [
+      "§1Discord:§f discord.eazumc.net",
+      "§4YouTube:§f youtube.eazumc.net"
+    ]
   }
 }
