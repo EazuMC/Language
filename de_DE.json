@@ -42,6 +42,9 @@
     
     "item.name.setup": "§4Setup",
     "item.name.stats": "§aStatistiken",
+    "item.name.cosmetics": "§7» §dKosmetika §7«",
+    "item.name.profile": "§7» §aProfil §7«",
+    "item.name.teleporter": "§7» §cTeleporter §7«",
     
     "broadcasts": [
       "§1Discord:§f discord.eazumc.net",
